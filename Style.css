@@ -19,8 +19,6 @@ body{
 #container{
   height:500px;
   width:500px;
-  transform: scale(calc(100vw/500));
-  transform-origin: top center;
   position: relative;
 }
 .cell{
